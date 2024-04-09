@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/AI-ML/MLflow/MLflow-Test/mlruns/0/ae2d87c2ed4f4c25aed280632c9bad2d/artifacts
+end_time: 1712650440813
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ae2d87c2ed4f4c25aed280632c9bad2d
+run_name: popular-hen-63
+run_uuid: ae2d87c2ed4f4c25aed280632c9bad2d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712650437433
+status: 3
+tags: []
+user_id: Arvind Vasa

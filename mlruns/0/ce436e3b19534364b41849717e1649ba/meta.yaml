@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/AI-ML/MLflow/MLflow-Test/mlruns/0/ce436e3b19534364b41849717e1649ba/artifacts
+end_time: 1712650257544
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ce436e3b19534364b41849717e1649ba
+run_name: judicious-steed-68
+run_uuid: ce436e3b19534364b41849717e1649ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712650254286
+status: 3
+tags: []
+user_id: Arvind Vasa
